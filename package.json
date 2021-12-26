@@ -4,7 +4,6 @@
   "description": "<br/> <br/>",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/blackcoffee-study/js-counter-test/issues"
   },
-  "homepage": "https://github.com/blackcoffee-study/js-counter-test#readme"
+  "homepage": "https://github.com/blackcoffee-study/js-counter#readme",
+  "devDependencies": {
+    "cypress": "^9.2.0"
+  }
 }
